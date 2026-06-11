@@ -6,7 +6,7 @@ This project presents an interactive COVID-19 Global Analysis Dashboard develope
 
 ## Dashboard Preview
 
-![Dashboard Preview](covid_dashboard.png)
+![Dashboard Preview](Covid_Dashboard.png.png)
 
 ## Tools & Technologies
 
